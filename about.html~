@@ -1,0 +1,9 @@
+---
+layout: profile
+---
+
+<h1>ABOUT</h1>
+
+<ul class="index">
+<li>{nickname: 'shicker', nickname_cn: '放空', name: 'scy'}</li>
+</ul>
